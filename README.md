@@ -1,5 +1,9 @@
 🛒 Supermarket Case Study
+
+
 📋 Overview
+
+
 This project involves designing interactive Power BI dashboards to analyze a dataset of 5,800+ transactions, uncovering valuable insights into sales trends, profitability, customer segmentation, and shipping performance. The dashboards provide actionable recommendations to improve business outcomes.
 
 🌟 Features
